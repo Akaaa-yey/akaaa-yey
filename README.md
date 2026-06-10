@@ -1,7 +1,4 @@
-<!-- BANNER ROXO DINÂMICO -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=8A2BE2&height=220&section=header&text=Olá,%20sou%20a%20Anna!%20💜&fontSize=40&fontColor=ffffff&animation=twinkle" alt="Banner da Anna" />
-</p>
+
 
 <!-- ANIMAÇÃO DE TEXTO NEON -->
 <p align="center">
